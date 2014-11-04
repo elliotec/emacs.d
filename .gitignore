@@ -1,0 +1,10 @@
+.cask/
+auto-save-list/
+ido.last
+places
+smex-items
+custom/slime
+url
+backups
+.mc-lists.el
+
